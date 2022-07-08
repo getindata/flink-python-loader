@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- Update Apache Flink to 1.15.
+
 ## [1.1.2] - 2022-05-31
 
 ## [1.1.1] - 2022-05-30
