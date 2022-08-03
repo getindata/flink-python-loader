@@ -4,7 +4,7 @@
 
   <groupId>com.getindata</groupId>
   <artifactId>flink-python-loader</artifactId>
-  <version>1.3.0-SNAPSHOT</version>
+  <version>1.2.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>flink-python-loader</name>
@@ -45,7 +45,7 @@
   </distributionManagement>
 
   <properties>
-    <flink.version>1.15.0</flink.version>
+    <flink.version>1.15.1</flink.version>
     <scala.major.version>2.12</scala.major.version>
     <maven.compiler.source>8</maven.compiler.source>
     <maven.compiler.target>8</maven.compiler.target>
