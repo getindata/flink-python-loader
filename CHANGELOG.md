@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [1.2.3] - 2022-12-30
+
 ### Changed
 
 -   Update Apache Flink to 1.15.3
@@ -28,7 +30,9 @@
 
 -   Implement basic loader for Python-based Flink application.
 
-[Unreleased]: https://github.com/getindata/flink-python-loader/compare/1.2.2...HEAD
+[Unreleased]: https://github.com/getindata/flink-python-loader/compare/1.2.3...HEAD
+
+[1.2.3]: https://github.com/getindata/flink-python-loader/compare/1.2.2...1.2.3
 
 [1.2.2]: https://github.com/getindata/flink-python-loader/compare/1.2.1...1.2.2
 
