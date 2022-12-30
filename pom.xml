@@ -45,7 +45,7 @@
   </distributionManagement>
 
   <properties>
-    <flink.version>1.15.2</flink.version>
+    <flink.version>1.15.3</flink.version>
     <scala.major.version>2.12</scala.major.version>
     <maven.compiler.source>8</maven.compiler.source>
     <maven.compiler.target>8</maven.compiler.target>
