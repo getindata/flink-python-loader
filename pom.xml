@@ -45,8 +45,7 @@
   </distributionManagement>
 
   <properties>
-    <flink.version>1.15.3</flink.version>
-    <scala.major.version>2.12</scala.major.version>
+    <flink.version>1.19.1</flink.version>
     <maven.compiler.source>8</maven.compiler.source>
     <maven.compiler.target>8</maven.compiler.target>
   </properties>
@@ -54,7 +53,7 @@
   <dependencies>
     <dependency>
       <groupId>org.apache.flink</groupId>
-      <artifactId>flink-python_${scala.major.version}</artifactId>
+      <artifactId>flink-python</artifactId>
       <version>${flink.version}</version>
     </dependency>
   </dependencies>

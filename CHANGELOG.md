@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+### Changed
+-   Update Apache Flink to 1.19.1
 
 ## [1.2.3] - 2022-12-30
 
